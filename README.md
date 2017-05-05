@@ -19,6 +19,7 @@
     <p>
     The rules are simple: we would like you to build out a simple dashboard page within this app skeleton which consumes data from an API endpoint we provide and renders it using C3 charts. The view should be manipulable by a simple pair of date selectors. That's it! There are two charts to build. 
   </p>
+ <img src="https://github.com/lavanda-uk/recruitment-exercise/blob/master/src/assets/dashboard-design.png" />
   <p>
     To help get you started we have created an empty dashboard page and wired up the app so it can be loaded from the menu. 
   </p>
