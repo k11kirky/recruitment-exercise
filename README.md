@@ -6,7 +6,7 @@
 <h3>Instructions</h3> 
   <h4>Initial Setup</h4>
   <ol>
-  <li>fork this repo and send us the link</li>
+  <li>fork this repo</li>
   <li>Install Ionic: <code>$ npm install -g ionic</code>
   <li>Clone your fork locally and <code>$ cd</code> in</li>
   <li><code>$ npm install</code></li>
