@@ -14,9 +14,9 @@
   </ol>
   <p>You should now be up and running with ionic running on localhost:8100 and browser syncing etc running. </p>
   <p>
-    While this is exercise uses a skeleton Ionic app (Ionic 3 on Angular 4 and Typescript), this is not a test of your Ionic knowledge and you don't need to know anything about Ionic to start working on this project. If you are completely new to Ionic and Typescript you will find the <a href="http://ionicframework.com/docs/v2">Ionic docs</a> provide useful background. 
+    While this exercise uses a skeleton Ionic app (Ionic 3 on Angular 4 and Typescript), this is not a test of your Ionic knowledge and you don't need to know anything about Ionic to start working on this project. If you are completely new to Ionic and Typescript you will find the <a href="http://ionicframework.com/docs/v2">Ionic docs</a> provide useful background. 
     </p>
-    <h4>The Rules</h4>
+    <h3>The Rules</h3>
     <p>
     The rules are simple: we would like you to build out a simple dashboard page within this app skeleton which consumes data from an API endpoint we provide and renders it using C3 charts. The view should be manipulable by a simple pair of date selectors. That's it! There are two charts to build. 
   </p>
