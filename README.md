@@ -11,7 +11,6 @@
   <li>Clone your fork locally and <code>$ cd</code> in</li>
   <li><code>$ npm install</code></li>
   <li><code>$ ionic serve</code>
-  <li>commit and push your changes regularly so we can see how your work develops</li>
   </ol>
   <p>You should now be up and running with ionic running on localhost:8100 and browser syncing etc running. </p>
   <p>
@@ -40,4 +39,4 @@ HTTP GET https://test-calendar.herokuapp.com/?from=2017-08-01&to=2017-08-31
   </p>
 
   <h3>Submitting Your App</h3>
-  <p>When you are happy with your code, please submit the result to a github repo and send us the link!</p>
+  <p>When you are happy with your code, please commit the result to your forked github repo and send us the link!</p>
