@@ -6,11 +6,12 @@
 <h3>Instructions</h3> 
   <h4>Initial Setup</h4>
   <ol>
-  <li>fork this repo</li>
+  <li>fork this repo and send us the link</li>
   <li>Install Ionic: <code>$ npm install -g ionic</code>
   <li>Clone your fork locally and <code>$ cd</code> in</li>
   <li><code>$ npm install</code></li>
   <li><code>$ ionic serve</code>
+  <li>commit and push your changes regularly so we can see how your work develops</li>
   </ol>
   <p>You should now be up and running with ionic running on localhost:8100 and browser syncing etc running. </p>
   <p>
